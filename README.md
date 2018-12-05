@@ -1,3 +1,5 @@
-# MSBD5012Project
+# MSBD5001 Kaggle competition
 
-https://www.kaggle.com/c/pubg-finish-placement-prediction/data
+https://www.kaggle.com/c/msbd5001-fall2018
+
+programming language: Python
